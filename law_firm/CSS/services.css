@@ -19,11 +19,12 @@
     left: 103px;
     top: 1065px;
 
-    background: url("/Images/seperation.png.png"), #FFFFFF;
+    background: url("/law_firm/Images/seperation.png.png"), #FFFFFF;
 
 }
 
 .text {
+    
     /* Separation / Divorce We assist clients with parenting, child support, spousal support, and property division. We represent clients at all stages, from newly separated to Motions to Change, and in all forms of dispute resolution, including negotiations, mediation, and litigation. We do not accept legal aid certificates for family law cases. */
 
     position: absolute;
@@ -61,7 +62,7 @@
     left: 103px;
     top: 1584px;
 
-    background: url("/Images/Wedding.png"), #FFFFFF;
+    background: url("/law_firm/Images/Wedding.png"), #FFFFFF;
 
 }
 
@@ -86,6 +87,7 @@
 }
 
 .paragraph {
+
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
