@@ -1,0 +1,1277 @@
+body {
+    width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.Rectangle_12 {
+    /* Ruegg & associates LLP */
+
+    background-image: url("/Images/Rectangle_12.png");
+    position: absolute;
+    width: 1440px;
+    height: 904px;
+    left: 0px;
+    top: 0px;
+}
+
+.frame_24 {
+    /* Frame 24 */
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    isolation: isolate;
+
+    position: absolute;
+    width: 238px;
+    height: 90px;
+    left: 1000px;
+    top: 43px;
+}
+
+.rectangle_11 {
+    /* Rectangle 11 */
+
+    width: 218px;
+    height: 70px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #223566;
+    display: flexbox;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+
+}
+
+.book {
+    /* Book a Free call */
+
+    position: absolute;
+    width: 137px;
+    height: 22px;
+    left: calc(50% - 137px/2 + 0.5px);
+    top: calc(50% - 22px/2);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    z-index: 1;
+
+}
+
+.bookAFreeCall {
+    /* Book a free call and get started today. There’s no retained, pressure, or obligation. */
+
+    position: absolute;
+    width: 491px;
+    height: 144px;
+    left: calc(40% - 491px/2 + 0.5px);
+    top: 34px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    z-index: 2;
+
+}
+
+
+
+main {
+    width: 1440px;
+    height: 2984px;
+    top: -2308px;
+    left: 55px;
+    gap: 0px;
+    opacity: 0px;
+    position: static;
+}
+
+header {
+    height: 190px;
+}
+
+.home {
+
+    /* Home */
+    width: 68px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+    /* identical to box height */
+    color: #CA8575;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+button:hover {
+    cursor: pointer;
+}
+.aboutUs {
+    /* About Us */
+
+    width: 107px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.services {
+    /* Services */
+
+    width: 100px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.contacts {
+    /* Contacts */
+
+    width: 105px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
+
+.logo {
+    /* pepicons-pencil:hammer-claw-circle-filled */
+    background-image: url("/Images/pepicons-pencil_hammer-claw-circle-filled.png");
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 58px;
+    top: 49px;
+}
+
+.frame_16 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-start;
+    align-content: flex-end;
+    padding: 0px;
+    gap: 62px 39px;
+
+    position: absolute;
+    width: 921px;
+    height: 29px;
+    left: calc(40% - 921px/2 - 88.5px);
+    top: 73px;
+}
+
+
+
+
+.rectangle_13 {
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 1440px;
+    height: 584px;
+    left: 0px;
+    top: 320px;
+
+    background: linear-gradient(180deg, rgba(29, 26, 26, 0) 15.41%, #1C1B1B 100%);
+
+}
+
+.preview {
+    /* Family lawyers and mediators for your fresh start. */
+
+    position: absolute;
+    width: 890px;
+    height: 348px;
+    left: 76px;
+    top: 150px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 116px;
+
+    color: #FFFFFF;
+
+}
+
+.frame_26 {
+
+    /* Frame 26 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    padding: 0px;
+    gap: 61px 17px;
+
+    position: absolute;
+    width: 1243px;
+    height: 1081px;
+    left: 99px;
+    top: 962px;
+
+}
+
+.frame {
+
+    /* Frame */
+
+    background: url("/Images/Frame.png"), #FFFFFF;
+    width: 504px;
+    height: 358px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+
+}
+
+.lookingForALawyer {
+
+    /* Looking for a lawyer? */
+
+    width: 652px;
+    height: 77px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.text {
+    /* Our lawyers represent clients at various stages of family life.  They provide clients with both legal information and legal advice. Lawyers advocate for you, meaning they look out for what is best for you at all stages of the matter.   Our team represents clients in the following areas: separation/divorce, prenuptial and cohabitation agreements, adoption, fertility/assisted reproduction, child protection, and wills and estate planning. We represent clients in Ottawa and throughout Eastern Ontario, including Kingston, Brockville, Cornwall, Perth, Lanark County, Renfrew, and the United Counties of Prescott and Russell (including L'Orignal, Hawkesbury, Russell, Embrun, and Cassleman), Carleton Place. We also represent clients in Belleville and Toronto. */
+
+    width: 711px;
+    height: 498px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.frame__16 {
+    /* Frame 16 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 39px;
+
+    width: 711px;
+    height: 614px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.frame_17 {
+    /* Frame 17 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    width: 722px;
+    height: 406px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.lookingForAMediator {
+    /* Looking for a mediator? */
+
+    width: 722px;
+    height: 77px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.ourMediators {
+    /* Our mediators assists separating and divorcing couples in reaching a separation or parenting agreement that meets their unique needs. As trained lawyers, our mediators can provide legal information to clientsand is able able to prepare customized Separation Agreementsand Parenting Plans. Our team mediates both parenting and financial agreements.We provide in-person mediation services in Ottawa,Toronto, and Perth.We also provides virtual mediation services to clients across Ontario. */
+
+    width: 707px;
+    height: 319px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.lawWebsite {
+    /* Law website */
+
+    width: 504px;
+    height: 358px;
+
+    background: url("/Images/Law\ website.png"), #FFFFFF;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+
+}
+
+.frame_25 {
+    /* Frame 25 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 85px;
+    isolation: isolate;
+
+    position: absolute;
+    width: 1442px;
+    height: 904px;
+    left: -2px;
+    top: 2080px;
+
+}
+
+.rectangle_10 {
+    /* Rectangle 10 */
+
+    width: 1440px;
+    height: 320px;
+
+    background: url(/Images/Rectangle\ 10.png), #D9D9D9;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+}
+
+.rectangle_9 {
+    /* Rectangle 9 */
+
+    width: 1442px;
+    height: 499px;
+
+    background: #223566;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    z-index: 1;
+
+}
+
+
+.RPO {
+
+    /*There’s no retained, pressure, or obligation*/
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+    text-align: center;
+}
+
+.frame_18 {
+    /* Frame 18 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10x;
+    gap: 10px;
+
+    position: absolute;
+    width: 362px;
+    height: 73px;
+    left: calc(40% - 362px / 2);
+    top: 211px;
+
+    background: #223566;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    z-index: 3;
+    text-align: center;
+
+}
+
+.call {
+    /* Book a free call today */
+
+    width: 330px;
+    height: 39px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.RueggAssociates {
+    /* Ruegg & associates LLP */
+
+    position: absolute;
+    width: 378px;
+    height: 39px;
+    left: 100px;
+    top: 472px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+    z-index: 4;
+
+}
+
+.frame_23 {
+    /* Frame 23 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 23px;
+
+    position: absolute;
+    width: 111px;
+    height: 133px;
+    left: 538px;
+    top: 472px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+    z-index: 5;
+
+}
+
+.company {
+    /* Company */
+
+    width: 111px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.AboutUs {
+    /* About Us */
+
+    width: 108px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.careers {
+    /* Careers */
+
+    width: 92px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.frame_20 {
+    /* Frame 20 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    position: absolute;
+    width: 596px;
+    height: 22px;
+    left: 125px;
+    top: 840px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 6;
+    flex-grow: 0;
+    z-index: 6;
+
+}
+
+.copyright {
+    /* 2024 Ruegg & associates LLP */
+
+    width: 253px;
+    height: 22px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.terms {
+    /* Terms of Service */
+
+    width: 144px;
+    height: 22px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.privacy {
+    /* Privacy Policy */
+
+    width: 119px;
+    height: 22px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.frame_22 {
+    /* Frame 22 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 23px;
+
+    position: absolute;
+    width: 210px;
+    height: 237px;
+    left: 720px;
+    top: 472px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 7;
+    flex-grow: 0;
+    z-index: 7;
+
+}
+
+.service {
+    /* Service */
+
+    width: 88px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.ourWork {
+    /* Our Work */
+
+    width: 110px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.pricing {
+    /* Pricing */
+
+    width: 81px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.helpCenter {
+    /* Help Center */
+
+    width: 139px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
+
+.scopeOfServices {
+    /* Scope of Services */
+
+    width: 210px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+
+}
+
+.frame_21 {
+    /* Frame 21 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 23px;
+
+    position: absolute;
+    width: 320px;
+    height: 289px;
+    left: 950px;
+    top: 472px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 8;
+    flex-grow: 0;
+    z-index: 8;
+
+}
+
+.emailUs {
+    /* Email Us */
+
+    width: 100px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.accra {
+    /* Accra GA-130-1764 */
+
+    width: 231px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+
+}
+
+.infoRueggAssociatesLLP {
+    /* info@ruegg&associatesLLP */
+
+    width: 320px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.ADDRESS {
+    /* ADDRESS */
+
+    width: 114px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.flat {
+    /* Flat 15 */
+
+    width: 76px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
+
+.hopefulHouse {
+    /* Hopeful House */
+
+    width: 173px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+
+}
+
+.line {
+    /* Line 1 */
+
+    position: absolute;
+    width: 1150px;
+    height: 0px;
+    left: 60px;
+    top: 826px;
+
+    border: 1px solid #B4B4B4;
+    transform: rotate(0.14deg);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 9;
+    flex-grow: 0;
+    z-index: 9;
+
+}
+
+.frame_19 {
+    /* Frame 19 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+
+    position: absolute;
+    width: 180px;
+    height: 24px;
+    left: 1000px;
+    top: 839px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 10;
+    flex-grow: 0;
+    z-index: 10;
+
+}
+
+.envelope {
+    /* u:envelope */
+    background-image: url("/Images/u_envelope.png");
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+
+.facebook {
+    /* jam:facebook */
+    background-image: url("/Images/jam_facebook.png");
+    width: 24px;
+    height: 20px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.twitter {
+    /* bi:twitter */
+    background-image: url("/Images/bi_twitter.png");
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.instagram {
+    /* ri:instagram-line */
+    background-image: url("/Images/ri_instagram-line.png");
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
+
+.globe {
+    /* fi:globe */
+    background-image: url("/Images/fi_globe.png");
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+
+}
+
+.eclipse {
+    /* Ellipse 1 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 101px;
+    top: 841px;
+
+    border: 1px solid #B4B4B4;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 11;
+    flex-grow: 0;
+    z-index: 11;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.C {
+    /* c */
+
+    position: absolute;
+    width: 14px;
+    height: 29px;
+    left: 2px;
+    top: -8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #B4B4B4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 12;
+    flex-grow: 0;
+    z-index: 12;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #CA8575;
+}
+
+a:hover,
+a:focus {
+    color: #CA8575
+}
+
+a:active {
+    color: #CA8575
+}

@@ -1,0 +1,56 @@
+.aboutUs {
+    color: #CA8575;
+}
+
+.home {
+    color: white;
+}
+
+.frame {
+    /* Frame */
+    background-image: url("/Images/tower.png");
+    position: absolute;
+    width: 667px;
+    height: 472px;
+    left: 76px;
+    top: 934px;
+
+}
+
+main {
+    height: 100%;
+}
+
+.text {
+    /* layout */
+
+    width: 1275px;
+    height: 784px;
+    top: 1511px;
+    left: 83px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.ourFirm {
+    /* typography */
+
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 77.45px;
+    text-align: left;
+    margin-top: 1511px;
+    margin-left: 60px;
+
+}
+
+.white {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 43.57px;
+    text-align: left;
+
+}

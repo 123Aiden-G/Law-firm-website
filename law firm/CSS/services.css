@@ -1,0 +1,95 @@
+.services {
+    color: #CA8575
+}
+
+.home {
+    color: white;
+}
+
+.aboutUs {
+    color: white;
+}
+
+.frame {
+    /* Frame */
+
+    position: absolute;
+    width: 504px;
+    height: 358px;
+    left: 103px;
+    top: 1065px;
+
+    background: url("/Images/seperation.png.png"), #FFFFFF;
+
+}
+
+.text {
+    /* Separation / Divorce We assist clients with parenting, child support, spousal support, and property division. We represent clients at all stages, from newly separated to Motions to Change, and in all forms of dispute resolution, including negotiations, mediation, and litigation. We do not accept legal aid certificates for family law cases. */
+
+    position: absolute;
+    width: 753px;
+    height: 242px;
+    left: 669px;
+    top: 1123px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77.45px;
+
+    color: #000000;
+
+
+}
+
+.assist {
+
+    font: Inter;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29.05px;
+
+}
+
+.frameII {
+    /* Frame */
+
+    position: absolute;
+    width: 504px;
+    height: 358px;
+    left: 103px;
+    top: 1584px;
+
+    background: url("/Images/Wedding.png"), #FFFFFF;
+
+}
+
+.marriage {
+    /* Getting Married Prenuptial, postnuptial and cohabitation agreements allow you to plan for your future, and help protect you and your partner from potential risk. They are an integral part of any financial plan. */
+
+    position: absolute;
+    width: 745px;
+    height: 270px;
+    left: 673px;
+    top: 1628px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77.45px;
+
+    color: #000000;
+
+
+}
+
+.paragraph {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: left;
+
+}
